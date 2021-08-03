@@ -10,7 +10,9 @@ by Anton Antonov (antononcube)
 https://github.com/antononcube
 
 Q: How does the code work?
+
 A: There will soon be an arXiv preprint, which will be linked here.
 
 Q: How does one use the code?
+
 A: Instructions soon to be posted here.
