@@ -12,7 +12,7 @@ https://github.com/antononcube
 
 Q: How does the code work?
 
-A: There will soon be an arXiv preprint, which will be linked here.
+A: There will soon be an arXiv preprint that will be linked here.
 
 
 Q: How does one use the code?
