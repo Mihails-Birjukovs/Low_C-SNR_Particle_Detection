@@ -8,15 +8,15 @@ https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegr
 by Anton Antonov (antononcube)
 
 https://github.com/antononcube
-\
 
-Q: How does the code work?
-A: There will soon be an arXiv preprint that will be linked here.
-\
 
-Q: How does one use the code?
-A: Instructions soon to be posted here.
-\
+Q: How does the code work?  
+A: There will soon be an arXiv preprint that will be linked here.  
 
-Q: Is there an example dataset to test the code?
+
+Q: How does one use the code?  
+A: Instructions soon to be posted here.  
+
+
+Q: Is there an example dataset to test the code?  
 A: One will be made public soon, with examples of output.
