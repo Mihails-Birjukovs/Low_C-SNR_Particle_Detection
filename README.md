@@ -1,5 +1,5 @@
 # Low_C-SNR_Particle_Detection
-A Wolfram Mathematica image processing code for particle flow images with low SNR/CNR (originally developed for high-FPS neutron imaging).
+A Wolfram Mathematica image processing code for particle flow images with low SNR/CNR (originally developed for high-FPS neutron imaging in liquid metal).
 
 ATTENTION: the post-processing part of the code uses a package
 
