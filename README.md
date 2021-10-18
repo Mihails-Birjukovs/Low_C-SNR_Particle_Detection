@@ -2,6 +2,9 @@
 A Wolfram Mathematica image processing code for particle flow images with low SNR/CNR.  
 Originally developed for high-FPS neutron imaging in liquid metal in presence of "phantom particles" stemming from correlated noise.
 
+The methodology and implementation are provided in a preprint (under review):  
+https://arxiv.org/abs/2109.10699
+
 ATTENTION: the post-processing part of the code uses a package
 
 https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m
@@ -9,10 +12,6 @@ https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegr
 by Anton Antonov (antononcube)
 
 https://github.com/antononcube
-
-
-Q: How does the code work?  
-A: There will soon be an arXiv preprint that will be linked here.  
 
 
 Q: How does one use the code?  
