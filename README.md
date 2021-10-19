@@ -7,11 +7,8 @@ The methodology and implementation are provided in a preprint (arXiv, currently 
 https://arxiv.org/abs/2109.10699
 
 ATTENTION: the post-processing part of the code uses a package
-
 https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m
-
 by Anton Antonov (antononcube)
-
 https://github.com/antononcube
 
 
