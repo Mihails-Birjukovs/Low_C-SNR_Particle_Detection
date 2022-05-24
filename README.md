@@ -20,5 +20,5 @@ Q: Is there an example dataset to test the code?
 A: One will be made public soon, with examples of output.
 
 
-Q: Am I available to help apply the code to your problem?
+Q: Am I available to help apply the code to your problem?  
 A: Yes, feel free to contact me at mihails.birjukovs@lu.lv or michael.birjukov@gmail.com
