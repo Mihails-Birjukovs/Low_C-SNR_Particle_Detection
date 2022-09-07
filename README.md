@@ -4,8 +4,8 @@ Originally developed for high-FPS neutron imaging in liquid metal in presence of
 
 The methodology, implementation and applications are showcased in the following articles:  
 "Particle tracking velocimetry in liquid gallium flow about a cylindrical obstacle"  
-https://link.springer.com/article/10.1007/s00348-022-03445-2
-"Particle tracking velocimetry and trajectory curvature statistics for particle-laden liquid metal flow in the wake of a cylindrical obstacle"
+https://link.springer.com/article/10.1007/s00348-022-03445-2  
+"Particle tracking velocimetry and trajectory curvature statistics for particle-laden liquid metal flow in the wake of a cylindrical obstacle"  
 http://dx.doi.org/10.48550/arXiv.2206.11033
 
 ATTENTION: the post-processing part of the code uses a package
