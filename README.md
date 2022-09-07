@@ -2,9 +2,11 @@
 A Wolfram Mathematica image processing code for particle flow images with low SNR/CNR.  
 Originally developed for high-FPS neutron imaging in liquid metal in presence of "phantom particles" stemming from correlated noise.
 
-The methodology and implementation are provided in a preprint (arXiv, currently under review):  
-"Particle tracking velocimetry in liquid gallium flow about a cylindrical obstacle"  
-https://arxiv.org/abs/2109.10699
+The methodology, implementation and applications are showcased in the following articles:  
+"Particle tracking velocimetry in liquid gallium flow about a cylindrical obstacle"
+https://link.springer.com/article/10.1007/s00348-022-03445-2
+"Particle tracking velocimetry and trajectory curvature statistics for particle-laden liquid metal flow in the wake of a cylindrical obstacle"
+http://dx.doi.org/10.48550/arXiv.2206.11033
 
 ATTENTION: the post-processing part of the code uses a package
 https://github.com/antononcube/MathematicaForPrediction/blob/master/QuantileRegression.m  
